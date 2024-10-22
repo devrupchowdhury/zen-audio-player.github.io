@@ -321,3 +321,9 @@ a {
     }
 
 }
+
+img{
+    border: 2px solid black;
+    width: 12rem;
+    border-radius: 10px;
+}
